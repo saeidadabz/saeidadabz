@@ -20,5 +20,3 @@ I'm always learning new tools, and leveling up my backend engineering skills.
   <img src="https://skillicons.dev/icons?i=docker" height="40" />
   <img src="https://skillicons.dev/icons?i=git" height="40" />
 </p>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
