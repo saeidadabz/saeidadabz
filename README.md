@@ -8,7 +8,7 @@ I enjoy:
 - 🗄 Working with powerful relational databases  
 - 🚀 Building production-ready backend infrastructures  
 
-I'm always learning new tools, contributing to open-source projects, and leveling up my backend engineering skills.
+I'm always learning new tools, and leveling up my backend engineering skills.
 
 🛠 Tech Stack
 <p align="left">
